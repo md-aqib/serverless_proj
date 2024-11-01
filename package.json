@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongoose": "^8.7.3",
+    "serverless-dotenv-plugin": "^6.0.0",
     "serverless-http": "^3.2.0"
   }
 }

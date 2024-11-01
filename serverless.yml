@@ -1,9 +1,9 @@
 # "org" ensures this Service is used with the correct Serverless Framework Access Key.
 org: appindia
 # "app" enables Serverless Framework Dashboard features and sharing them with other Services.
-app: serverless1
+app: serverless2
 # "service" is the name of this project. This will also be added to your AWS resource names.
-service: serverless1
+service: serverless2
 
 provider:
   name: aws
